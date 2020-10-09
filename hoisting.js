@@ -16,7 +16,7 @@ function crazy() {
   
   thisIsCrazy();
 
-   thisIsCrazy = function (){
+  function thisIsCrazy() {
     console.log("hey!!!")
   }
 }
